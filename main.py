@@ -1,3 +1,8 @@
+#################################################
+# Comparative Toxicogenomics Database AutoSearch
+# Author: Qi Yan
+# Date: 03/17/2013
+#################################################
 def ctdSearch(gene_loc, output_loc, tempfile_loc, disease, threshold):
 
     import urllib.request
